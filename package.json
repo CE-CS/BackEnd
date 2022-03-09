@@ -1,0 +1,23 @@
+{
+  "name": "ce_cs",
+  "version": "1.0.0",
+  "description": "CE_CS Community Web Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CE-CS/BackEnd.git"
+  },
+  "author": "SJH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CE-CS/BackEnd/issues"
+  },
+  "homepage": "https://github.com/CE-CS/BackEnd#readme",
+  "dependencies": {
+    "express": "4.17.3",
+    "mongoose": "6.2.4"
+  }
+}
