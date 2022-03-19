@@ -14,6 +14,7 @@ app.get('/', function(req, res){
 app.listen(port, function(){
     console.log(`Server Connected on ${port}.`);
 });
+// Hi
 
 const User = require('../schemas/user.js');
 
